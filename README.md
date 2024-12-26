@@ -16,7 +16,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hi 👋, I am
                 <b>Poonam Rawat</b>
         </samp>
 </h3>
@@ -24,7 +24,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a frontend developer from <b>India</b> 」
+    「 A passionate frontend developer from <b>India</b> 」
     <br>
     <br>
   </samp>
